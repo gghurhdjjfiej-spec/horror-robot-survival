@@ -1,0 +1,27 @@
+# Godot
+.godot/
+*.translation
+*.gd.remap
+*.tres.remap
+scene.gd
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build files
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.elf
+
+# Export
+export/
+*.apk
+*.ipa
+*.exe
